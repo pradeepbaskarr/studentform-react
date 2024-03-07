@@ -1,0 +1,14 @@
+.sidenavbar{
+    border: 1px solid red;
+    height: 100vh;
+    position: fixed;
+    background: green;
+}
+.demo1{
+    color:red;
+    font-size: 25;
+}
+.demo2{
+    color:greenyellow;
+    font-size: 25;
+}
